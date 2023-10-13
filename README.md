@@ -4,4 +4,6 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kwoneunei)](https://solved.ac/kwoneunei)<br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwoneunei)](https://solved.ac/kwoneunei)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwoneunei&layout=compact)](https://github.com/kwoneunei/github-readme-stats)

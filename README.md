@@ -1,3 +1,4 @@
 # Lab 1-1
  Lab 1-1
- <img src="https://img.shields.io/badge/Python-#000000?style=flat&logo=#3776AB&logoColor=white"/>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kwoneunei)](https://solved.ac/kwoneunei)<br/>

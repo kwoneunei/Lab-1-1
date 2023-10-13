@@ -2,6 +2,7 @@
  Lab 1-1
  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunei's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kwoneunei)](https://solved.ac/kwoneunei)<br/>
 [![Solved.ac
